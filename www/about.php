@@ -36,9 +36,8 @@
     </div>
 
     <div class="container">
-      <h1>Allan Wirth</h1>
-      <p>Website - <a href="http://allanwirth.com/">allanwirth.com</a></p>
-      <img src="/images/allan.jpg" />
+      <h1>This is me:</h1>
+      <img src="/images/shibe.jpg" />
       <p>What else would you want to know?!</p>
 <?php
 $counter_file = "/tmp/visitor_counter.txt";
