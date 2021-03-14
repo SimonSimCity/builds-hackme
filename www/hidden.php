@@ -54,7 +54,6 @@ if ($_COOKIE['user'] != 'admin') {
 ?>
     <h1>Welcome Admin</h1>
     <p>Here are your ssh credentials in case you forgot:</p>
-<iframe width="560" height="315" src="//www.youtube.com/embed/i8u6EodZseg?rel=0&autoplay=1" frameborder="0" allowfullscreen></iframe>
     <p>KEY{HackThePlanet}</p>
     <p>By the way <a href="/hardstuff.zip">here are the files</a> you asked me to hold on to for you.</p>
 <?php
