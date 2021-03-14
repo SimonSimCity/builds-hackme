@@ -3,5 +3,6 @@ Welcome.
 Here you will find some new challenges.
 
 Everything you need is in this folder.
+You'll need python2.
 
 KEY{WelcomeToTheMatrix}
